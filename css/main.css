@@ -137,7 +137,7 @@ body {
         border: 1px white solid;
         top: 90px;
         bottom: 50px;
-        background-image: url("img-locations-background.png");
+        background-image: url("/Users/jeanineloughlin/new_projects_codecademy/TeaCozy/img-locations-background.png");
         background-repeat: no-repeat;
         background-size: cover;
     }
