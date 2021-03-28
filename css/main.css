@@ -87,7 +87,7 @@ body {
         display: flex;
         position: relative;
         border: 1px white solid;
-        background-image: url("img-mission-background.png");
+        background-image: url("/Users/jeanineloughlin/new_projects_codecademy/TeaCozy/img-mission-background.png");
         background-repeat: no-repeat;
         background-size: cover;
         height: 690px;
